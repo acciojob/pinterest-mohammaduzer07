@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.container{
+	display: flex;
+	align-items: right;
+	justify-content: space-between;
+}
+#hero-img{
+	width: 100%;
+	height: 100%; 
+	object-fit: cover;
+}
+#head{
+	margin-top: 10px;
+	margin-left: 10px;
+	display: flex;
+	align-items: center;
+	display: flex;
+	float: 1;
+}
